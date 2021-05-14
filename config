@@ -1,0 +1,5 @@
+IMG_NAME='BTCPayServerRaspberryPiOS'
+TARGET_HOSTNAME='btcpayserver'
+FIRST_USER_NAME='btcpay'
+FIRST_USER_PASS='btcpay'
+ENABLE_SSH=1
